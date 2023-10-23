@@ -2,7 +2,7 @@
 
 ## Create security group
 
-Create inbound rules that allow [these ports](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/advanced_usage.html#port) for Sunshine.
+Create inbound rules that allow [these ports](https://docs.lizardbyte.dev/projects/sunshine/en/latest/about/advanced_usage.html#port) for Sunshine. Also allow TCP on port 3389 for the RDP connection.
 
 ## Create EC2 instance
 
